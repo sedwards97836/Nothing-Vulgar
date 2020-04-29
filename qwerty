@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "@cns-ubuntu-server"
+echo "util-linux 2.31.1 and cpu MHz 2096.060"
+echo "Mem: total=2040996 free=109740"
+echo "Swap:total=2097148 free=2043416"
+echo "ext4:total=9.8G free=9.3G"
+echo "IP address 192.168.2.10/24"
+
